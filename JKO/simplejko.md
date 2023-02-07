@@ -8,6 +8,6 @@
 <li>Either manually click on the green Play arrow or hold CTRL and press ENTER.</li>
 </ul>
 
-<p><br /></p>
 
-<code>API_1484_11.SetValue('cmi.completion_status','completed');if (document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c")){document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c").submit()};</code>
+
+API_1484_11.SetValue("cmi.completion_status","completed")
